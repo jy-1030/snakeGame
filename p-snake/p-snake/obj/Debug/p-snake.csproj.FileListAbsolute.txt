@@ -1,0 +1,54 @@
+I:\C#\p-snake\p-snake\bin\Debug\p-snake.exe.config
+I:\C#\p-snake\p-snake\bin\Debug\p-snake.exe
+I:\C#\p-snake\p-snake\bin\Debug\p-snake.pdb
+I:\C#\p-snake\p-snake\obj\Debug\p-snake.csprojResolveAssemblyReference.cache
+I:\C#\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+I:\C#\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+I:\C#\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.Cache
+I:\C#\p-snake\p-snake\obj\Debug\p-snake.exe
+I:\C#\p-snake\p-snake\obj\Debug\p-snake.pdb
+F:\C#\p-snake\p-snake\bin\Debug\p-snake.exe.config
+F:\C#\p-snake\p-snake\obj\Debug\p-snake.exe
+F:\C#\p-snake\p-snake\obj\Debug\p-snake.pdb
+F:\C#\p-snake\p-snake\bin\Debug\p-snake.exe
+F:\C#\p-snake\p-snake\bin\Debug\p-snake.pdb
+F:\C#\p-snake\p-snake\obj\Debug\p-snake.csprojResolveAssemblyReference.cache
+F:\C#\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+F:\C#\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+F:\C#\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\p-snake\p-snake\bin\Debug\p-snake.exe.config
+C:\Users\user\Desktop\p-snake\p-snake\obj\Debug\p-snake.exe
+C:\Users\user\Desktop\p-snake\p-snake\obj\Debug\p-snake.pdb
+C:\Users\user\Desktop\p-snake\p-snake\bin\Debug\p-snake.exe
+C:\Users\user\Desktop\p-snake\p-snake\bin\Debug\p-snake.pdb
+C:\Users\user\Desktop\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+C:\Users\user\Desktop\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+C:\Users\user\Desktop\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\p-snake\p-snake\obj\Debug\p-snake.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe.config
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.pdb
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.exe
+C:\Users\User\Desktop\MIS\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.pdb
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe.config
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.pdb
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.exe
+C:\Users\User\Desktop\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.pdb
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe.config
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.exe
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\bin\Debug\p-snake.pdb
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csprojAssemblyReference.cache
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Form1.resources
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p_snake.Properties.Resources.resources
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.csproj.GenerateResource.cache
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.exe
+D:\school\MIS\選修\.NET\.net final report\p-snake\p-snake\obj\Debug\p-snake.pdb
